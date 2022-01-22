@@ -1,4 +1,4 @@
-# Artificial-Inteligence-2021-1
+# Artificial-Intelligence-2021-1
 Implementação dos EPs 1 e 2 da disciplina de inteligência artificial.
 
 Descrição do EP01:
